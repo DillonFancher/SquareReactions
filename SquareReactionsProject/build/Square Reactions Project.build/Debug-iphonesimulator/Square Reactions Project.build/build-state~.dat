@@ -1,0 +1,391 @@
+TSquare Reactions Project
+v7
+r0
+t378600885.916135
+cCheck dependencies
+cProcessInfoPlistFile "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator/Square Reactions Project.app/Info.plist" Square_Reactions_Project-Info.plist
+cCpResource "build/Debug-iphonesimulator/Square Reactions Project.app/Shader.fsh" Shaders/Shader.fsh
+cCpResource "build/Debug-iphonesimulator/Square Reactions Project.app/Shader.vsh" Shaders/Shader.vsh
+cCompileXIB "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/MainWindow.xib"
+cCompileXIB "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Square_Reactions_ProjectViewController.xib"
+cProcessPCH /var/folders/fb/fbi7ZvmYEd8kBwH+vNFgYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Square_Reactions_Project_Prefix-ejrjftpcmsilkydctapvztdsyyje/Square_Reactions_Project_Prefix.pch.gch Square_Reactions_Project_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Objects-normal/i386/main.o" "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Objects-normal/i386/Square_Reactions_ProjectAppDelegate.o" "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/Square_Reactions_ProjectAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Objects-normal/i386/EAGLView.o" "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/EAGLView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Objects-normal/i386/Square_Reactions_ProjectViewController.o" "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/Square_Reactions_ProjectViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Objects-normal/i386/squares.o" "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/../../../Desktop/squares.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004D54D24F000000000000094F
+t1297404495
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004D54D24F0000000000009369
+t1297404495
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004D54D24F0000000000003C4A
+t1297404495
+s15434
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES2/gl.h
+c000000004D54D24F00000000000092AA
+t1297404495
+s37546
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES2/glext.h
+c000000004D54D24F00000000000026AA
+t1297404495
+s9898
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004D54D28100000000000191D0
+t1297404545
+s102864
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004D54D2DD00000000000000C4
+t1297404637
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004D54D4200000000000162C50
+t1297404960
+s1453136
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Users/daffancher/Desktop/squares.h
+c0000000050E0C51700000000000000DC
+t1356907799
+s220
+i<UIKit/UIKit.h>
+
+N/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/../../../Desktop/squares.m
+c0000000050E0C5170000000000000259
+t1356907799
+s601
+i"squares.h"
+
+N/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/EAGLView.h
+c0000000050DDE18100000000000003F2
+t1356718465
+s1010
+i<UIKit/UIKit.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<OpenGLES/ES2/gl.h>
+i<OpenGLES/ES2/glext.h>
+
+N/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/EAGLView.m
+c0000000050DDE1810000000000000EFA
+t1356718465
+s3834
+i<QuartzCore/QuartzCore.h>
+i"EAGLView.h"
+
+N/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/Square_Reactions_ProjectAppDelegate.h
+c0000000050DDE1810000000000000248
+t1356718465
+s584
+i<UIKit/UIKit.h>
+
+N/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/Square_Reactions_ProjectAppDelegate.m
+c0000000050E0C63100000000000005E9
+t1356908081
+s1513
+i"Square_Reactions_ProjectAppDelegate.h"
+i"Square_Reactions_ProjectViewController.h"
+i"squares.h"
+
+N/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/Square_Reactions_ProjectViewController.h
+c0000000050DDE18100000000000002EE
+t1356718465
+s750
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<OpenGLES/ES2/gl.h>
+i<OpenGLES/ES2/glext.h>
+
+N/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/Square_Reactions_ProjectViewController.m
+c0000000050DDE1810000000000002779
+t1356718465
+s10105
+i<QuartzCore/QuartzCore.h>
+i"Square_Reactions_ProjectViewController.h"
+i"EAGLView.h"
+
+N/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/MainWindow.xib
+c0000000050DDE18100000000000055E6
+t1356718465
+s21990
+
+N/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Shaders/Shader.fsh
+c0000000050DDE18100000000000000EE
+t1356718465
+s238
+
+N/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Shaders/Shader.vsh
+c0000000050DDE1810000000000000174
+t1356718465
+s372
+
+N/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Square_Reactions_ProjectViewController.xib
+c0000000050DDE1810000000000004413
+t1356718465
+s17427
+
+N/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Square_Reactions_Project_Prefix.pch
+c0000000050DDE181000000000000015A
+t1356718465
+s346
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator/Square Reactions Project.app
+t2
+s0
+
+N/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator/Square Reactions Project.app.dSYM
+t2
+s0
+
+N/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator/Square Reactions Project.app/Info.plist
+t1356908083
+s692
+
+N/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator/Square Reactions Project.app/MainWindow.nib
+t1356908083
+s1784
+
+N/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator/Square Reactions Project.app/PkgInfo
+t1356908083
+s8
+
+N/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator/Square Reactions Project.app/Shader.fsh
+t1356908083
+s238
+
+N/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator/Square Reactions Project.app/Shader.vsh
+t1356908083
+s372
+
+N/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator/Square Reactions Project.app/Square Reactions Project
+t2
+s0
+
+N/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator/Square Reactions Project.app/Square_Reactions_ProjectViewController.nib
+t1356908083
+s1342
+
+N/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Objects-normal/i386/EAGLView.o
+t1356908085
+s48176
+
+N/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Objects-normal/i386/Square Reactions Project.LinkFileList
+c0000000050E0C63300000000000003E5
+t1356908083
+s997
+
+N/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Objects-normal/i386/Square_Reactions_ProjectAppDelegate.o
+t2
+s0
+
+N/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Objects-normal/i386/Square_Reactions_ProjectViewController.o
+t1356908085
+s63236
+
+N/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Objects-normal/i386/main.o
+t1356908085
+s6368
+
+N/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Objects-normal/i386/squares.o
+t1356908085
+s37472
+
+N/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/main.m
+c0000000050DDE181000000000000017D
+t1356718465
+s381
+i<UIKit/UIKit.h>
+
+N/var/folders/fb/fbi7ZvmYEd8kBwH+vNFgYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Square_Reactions_Project_Prefix-ejrjftpcmsilkydctapvztdsyyje/Square_Reactions_Project_Prefix.pch.gch
+t1356908085
+s15797680
+
+NSquare_Reactions_Project-Info.plist
+c0000000050DDE18100000000000003B4
+t1356718465
+s948
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies378600883#378600883#0(0"0(0#1#0"7598807741243727872#0"0#
+
+CCompileC "build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Objects-normal/i386/EAGLView.o" "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/EAGLView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s378600885.615465
+e378600885.875200
+r1
+xCompileC
+xbuild/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Objects-normal/i386/EAGLView.o
+x/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/EAGLView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/EAGLView.m378600885#378600885#0(0"0(0#0#86"/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/EAGLView.m8622415712#2619"    cd "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Square Reactions Project-generated-files.hmap" "-I/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Square Reactions Project-own-target-headers.hmap" "-I/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Square Reactions Project-all-target-headers.hmap" -iquote "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Square Reactions Project-project-headers.hmap" "-F/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator" "-I/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator/include" "-I/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/DerivedSources/i386" "-I/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/DerivedSources" -include /var/folders/fb/fbi7ZvmYEd8kBwH+vNFgYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Square_Reactions_Project_Prefix-ejrjftpcmsilkydctapvztdsyyje/Square_Reactions_Project_Prefix.pch -c "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/EAGLView.m" -o "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Objects-normal/i386/EAGLView.o"0#
+
+CCompileC "build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Objects-normal/i386/Square_Reactions_ProjectAppDelegate.o" "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/Square_Reactions_ProjectAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s378600885.614093
+e378600885.847197
+r0
+xCompileC
+xbuild/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Objects-normal/i386/Square_Reactions_ProjectAppDelegate.o
+x/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/Square_Reactions_ProjectAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/Square_Reactions_ProjectAppDelegate.m: In function '-[Square_Reactions_ProjectAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/Square_Reactions_ProjectAppDelegate.m:23: error: expected ']' before ';' token
+o/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/Square_Reactions_ProjectAppDelegate.m:29: error: expected ';' before '}' token
+o/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/Square_Reactions_ProjectAppDelegate.m:29: warning: control reaches end of non-void function
+lSLF07#2@121"Compile /Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/Square_Reactions_ProjectAppDelegate.m378600885#378600885#0(690"/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/Square_Reactions_ProjectAppDelegate.m: In function '-[Square_Reactions_ProjectAppDelegate application:didFinishLaunchingWithOptions:]':/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/Square_Reactions_ProjectAppDelegate.m:23: error: expected ']' before ';' token/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/Square_Reactions_ProjectAppDelegate.m:29: error: expected ';' before '}' token/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/Square_Reactions_ProjectAppDelegate.m:29: warning: control reaches end of non-void function3(4@29"Expected ']' before ';' token378600885#212#155#0(6@113"/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/Square_Reactions_ProjectAppDelegate.m378600881#23#0#23#0#19"expected * before *0(4@29"Expected ';' before '}' token378600885#367#155#0(6@113"/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/Square_Reactions_ProjectAppDelegate.m378600881#29#0#29#0#19"expected * before *0(22@40"Control reaches end of non-void function378600885#522#168#0(6@113"/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/Square_Reactions_ProjectAppDelegate.m378600881#29#0#29#0#40"control reaches end of non-void function0(0#0#113"/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/Square_Reactions_ProjectAppDelegate.m8622613504#2673"    cd "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Square Reactions Project-generated-files.hmap" "-I/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Square Reactions Project-own-target-headers.hmap" "-I/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Square Reactions Project-all-target-headers.hmap" -iquote "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Square Reactions Project-project-headers.hmap" "-F/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator" "-I/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator/include" "-I/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/DerivedSources/i386" "-I/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/DerivedSources" -include /var/folders/fb/fbi7ZvmYEd8kBwH+vNFgYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Square_Reactions_Project_Prefix-ejrjftpcmsilkydctapvztdsyyje/Square_Reactions_Project_Prefix.pch -c "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/Square_Reactions_ProjectAppDelegate.m" -o "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Objects-normal/i386/Square_Reactions_ProjectAppDelegate.o"1#
+
+CCompileC "build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Objects-normal/i386/Square_Reactions_ProjectViewController.o" "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/Square_Reactions_ProjectViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s378600885.617201
+e378600885.900565
+r1
+xCompileC
+xbuild/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Objects-normal/i386/Square_Reactions_ProjectViewController.o
+x/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/Square_Reactions_ProjectViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@124"Compile /Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/Square_Reactions_ProjectViewController.m378600885#378600885#0(0"0(0#0#116"/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/Square_Reactions_ProjectViewController.m8620904832#2679"    cd "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Square Reactions Project-generated-files.hmap" "-I/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Square Reactions Project-own-target-headers.hmap" "-I/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Square Reactions Project-all-target-headers.hmap" -iquote "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Square Reactions Project-project-headers.hmap" "-F/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator" "-I/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator/include" "-I/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/DerivedSources/i386" "-I/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/DerivedSources" -include /var/folders/fb/fbi7ZvmYEd8kBwH+vNFgYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Square_Reactions_Project_Prefix-ejrjftpcmsilkydctapvztdsyyje/Square_Reactions_Project_Prefix.pch -c "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Classes/Square_Reactions_ProjectViewController.m" -o "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Objects-normal/i386/Square_Reactions_ProjectViewController.o"0#
+
+CCompileC "build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Objects-normal/i386/main.o" "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s378600885.612146
+e378600885.851271
+r1
+xCompileC
+xbuild/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Objects-normal/i386/main.o
+x/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/main.m378600885#378600885#0(0"0(0#0#74"/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/main.m8620573120#2603"    cd "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Square Reactions Project-generated-files.hmap" "-I/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Square Reactions Project-own-target-headers.hmap" "-I/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Square Reactions Project-all-target-headers.hmap" -iquote "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Square Reactions Project-project-headers.hmap" "-F/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator" "-I/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator/include" "-I/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/DerivedSources/i386" "-I/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/DerivedSources" -include /var/folders/fb/fbi7ZvmYEd8kBwH+vNFgYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Square_Reactions_Project_Prefix-ejrjftpcmsilkydctapvztdsyyje/Square_Reactions_Project_Prefix.pch -c "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/main.m" -o "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Objects-normal/i386/squares.o" "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/../../../Desktop/squares.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s378600885.847353
+e378600885.916016
+r1
+xCompileC
+xbuild/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Objects-normal/i386/squares.o
+x/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/../../../Desktop/squares.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/../../../Desktop/squares.m378600885#378600885#0(0"0(0#0#94"/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/../../../Desktop/squares.m8603652256#2626"    cd "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Square Reactions Project-generated-files.hmap" "-I/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Square Reactions Project-own-target-headers.hmap" "-I/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Square Reactions Project-all-target-headers.hmap" -iquote "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Square Reactions Project-project-headers.hmap" "-F/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator" "-I/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator/include" "-I/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/DerivedSources/i386" "-I/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/DerivedSources" -include /var/folders/fb/fbi7ZvmYEd8kBwH+vNFgYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Square_Reactions_Project_Prefix-ejrjftpcmsilkydctapvztdsyyje/Square_Reactions_Project_Prefix.pch -c "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/../../../Desktop/squares.m" -o "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Objects-normal/i386/squares.o"0#
+
+CCompileXIB "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/MainWindow.xib"
+s378600883.260010
+e378600883.789546
+r1
+xCompileXIB
+x/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib378600883#378600883#0(0"0(0#0#82"/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/MainWindow.xib8622530976#680"    cd "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator/Square Reactions Project.app/MainWindow.nib" "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Square_Reactions_ProjectViewController.xib"
+s378600883.260759
+e378600883.778188
+r1
+xCompileXIB
+x/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Square_Reactions_ProjectViewController.xib
+lSLF07#2@53"CompileXIB Square_Reactions_ProjectViewController.xib378600883#378600883#0(0"0(0#0#110"/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Square_Reactions_ProjectViewController.xib8622037472#736"    cd "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator/Square Reactions Project.app/Square_Reactions_ProjectViewController.nib" "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Square_Reactions_ProjectViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource "build/Debug-iphonesimulator/Square Reactions Project.app/Shader.fsh" Shaders/Shader.fsh
+s378600883.257743
+e378600883.322102
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Square Reactions Project.app/Shader.fsh
+xShaders/Shader.fsh
+lSLF07#2@23"Copy Shaders/Shader.fsh378600883#378600883#0(0"0(0#0#86"/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Shaders/Shader.fsh8620908640#586"    cd "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Shaders/Shader.fsh" "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator/Square Reactions Project.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Square Reactions Project.app/Shader.vsh" Shaders/Shader.vsh
+s378600883.259310
+e378600883.323309
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Square Reactions Project.app/Shader.vsh
+xShaders/Shader.vsh
+lSLF07#2@23"Copy Shaders/Shader.vsh378600883#378600883#0(0"0(0#0#86"/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Shaders/Shader.vsh8622179008#586"    cd "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Shaders/Shader.vsh" "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator/Square Reactions Project.app"0#
+
+CGenerateDSYMFile "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator/Square Reactions Project.app.dSYM" "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator/Square Reactions Project.app/Square Reactions Project"
+r0
+
+CLd "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator/Square Reactions Project.app/Square Reactions Project" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator/Square Reactions Project.app/Info.plist" Square_Reactions_Project-Info.plist
+s378600883.229846
+e378600883.257628
+r1
+xProcessInfoPlistFile
+x/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator/Square Reactions Project.app/Info.plist
+xSquare_Reactions_Project-Info.plist
+lSLF07#2@43"Process Square_Reactions_Project-Info.plist378600883#378600883#0(0"0(0#0#103"/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Square_Reactions_Project-Info.plist7307775882123310080#623"    cd "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Square_Reactions_Project-Info.plist -genpkginfo "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator/Square Reactions Project.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator/Square Reactions Project.app/Info.plist"0#
+
+CProcessPCH /var/folders/fb/fbi7ZvmYEd8kBwH+vNFgYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Square_Reactions_Project_Prefix-ejrjftpcmsilkydctapvztdsyyje/Square_Reactions_Project_Prefix.pch.gch Square_Reactions_Project_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s378600883.789828
+e378600885.611752
+r1
+xProcessPCH
+x/var/folders/fb/fbi7ZvmYEd8kBwH+vNFgYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Square_Reactions_Project_Prefix-ejrjftpcmsilkydctapvztdsyyje/Square_Reactions_Project_Prefix.pch.gch
+xSquare_Reactions_Project_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Precompile Square_Reactions_Project_Prefix.pch378600883#378600885#0(0"0(0#0#103"/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Square_Reactions_Project_Prefix.pch8620621760#2447"    cd "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Square Reactions Project-generated-files.hmap" "-I/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Square Reactions Project-own-target-headers.hmap" "-I/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Square Reactions Project-all-target-headers.hmap" -iquote "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/Square Reactions Project-project-headers.hmap" "-F/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator" "-I/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator/include" "-I/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/DerivedSources/i386" "-I/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Square Reactions Project.build/Debug-iphonesimulator/Square Reactions Project.build/DerivedSources" -c "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/Square_Reactions_Project_Prefix.pch" -o /var/folders/fb/fbi7ZvmYEd8kBwH+vNFgYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Square_Reactions_Project_Prefix-ejrjftpcmsilkydctapvztdsyyje/Square_Reactions_Project_Prefix.pch.gch0#
+
+CTouch "/Users/daffancher/Dropbox/Square Reactions/Square Reactions Project/build/Debug-iphonesimulator/Square Reactions Project.app"
+r0
+

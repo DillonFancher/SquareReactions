@@ -1,0 +1,227 @@
+// !$*UTF8*$!
+{
+	1160D6D018B7E5020082CC0A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28FD14FC0DC6FC130079059D /* EAGLView.h */;
+		name = "EAGLView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 612;
+		vrLoc = 0;
+	};
+	1160D6D118B7E5020082CC0A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28FD14FD0DC6FC130079059D /* EAGLView.m */;
+		name = "EAGLView.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 355;
+		vrLoc = 0;
+	};
+	1160D6D218B7E5020082CC0A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Square_Reactions_ProjectAppDelegate.m */;
+		name = "Square_Reactions_ProjectAppDelegate.m: 25";
+		rLen = 0;
+		rLoc = 711;
+		rType = 0;
+		vrLen = 461;
+		vrLoc = 893;
+	};
+	1160D6D318B7E5020082CC0A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28EC4C5611D54ECE0027AA9F /* Square_Reactions_ProjectViewController.h */;
+		name = "Square_Reactions_ProjectViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 453;
+		vrLoc = 297;
+	};
+	1160D6E318B7E5560082CC0A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28EC4C5711D54ECE0027AA9F /* Square_Reactions_ProjectViewController.m */;
+		name = "Square_Reactions_ProjectViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 414;
+		vrLoc = 9691;
+	};
+	1160D6E418B7E5560082CC0A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28EC4C5711D54ECE0027AA9F /* Square_Reactions_ProjectViewController.m */;
+		name = "Square_Reactions_ProjectViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 393;
+		vrLoc = 0;
+	};
+	11BE9579168E19020057B10C /* Square Reactions Project */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Square Reactions Project";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	11BE958A168E19080057B10C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	11BE958B168E19080057B10C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	11E3E4451690FC97004D530D /* squares.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1047, 318}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 220}";
+		};
+	};
+	11E3E4601690FFCD004D530D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* Square_Reactions_Project_Prefix.pch */;
+		name = "Square_Reactions_Project_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 346;
+		vrLoc = 0;
+	};
+	1D3623250D0F684500981E51 /* Square_Reactions_ProjectAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = \"CGFloat y\";\n            r = \"{713, 13}\";\n            s = 1;\n        },\n                {\n            l = \"CGFloat width\";\n            r = \"{728, 17}\";\n            s = 1;\n        },\n                {\n            l = \"CGFloat height\";\n            r = \"{747, 18}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 1633}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {809, 832}}";
+			sepNavSelRange = "{711, 0}";
+			sepNavVisRange = "{848, 461}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Square Reactions Project */ = {
+		activeExec = 0;
+		executables = (
+			11BE9579168E19020057B10C /* Square Reactions Project */,
+		);
+	};
+	28EC4C5611D54ECE0027AA9F /* Square_Reactions_ProjectViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {809, 455}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{297, 453}";
+		};
+	};
+	28EC4C5711D54ECE0027AA9F /* Square_Reactions_ProjectViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2280, 5135}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 393}";
+		};
+	};
+	28FD14FC0DC6FC130079059D /* EAGLView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {809, 494}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 612}";
+		};
+	};
+	28FD14FD0DC6FC130079059D /* EAGLView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {809, 2093}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 355}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 11BE9579168E19020057B10C /* Square Reactions Project */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Square Reactions Project */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Square Reactions Project */,
+		);
+		codeSenseManager = 11BE958B168E19080057B10C /* Code sense */;
+		executables = (
+			11BE9579168E19020057B10C /* Square Reactions Project */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					646,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 414704961;
+			PBXWorkspaceStateSaveDate = 414704961;
+		};
+		perUserProjectItems = {
+			1160D6D018B7E5020082CC0A /* PBXTextBookmark */ = 1160D6D018B7E5020082CC0A /* PBXTextBookmark */;
+			1160D6D118B7E5020082CC0A /* PBXTextBookmark */ = 1160D6D118B7E5020082CC0A /* PBXTextBookmark */;
+			1160D6D218B7E5020082CC0A /* PBXTextBookmark */ = 1160D6D218B7E5020082CC0A /* PBXTextBookmark */;
+			1160D6D318B7E5020082CC0A /* PBXTextBookmark */ = 1160D6D318B7E5020082CC0A /* PBXTextBookmark */;
+			1160D6E318B7E5560082CC0A /* PBXTextBookmark */ = 1160D6E318B7E5560082CC0A /* PBXTextBookmark */;
+			1160D6E418B7E5560082CC0A /* PBXTextBookmark */ = 1160D6E418B7E5560082CC0A /* PBXTextBookmark */;
+			11E3E4601690FFCD004D530D /* PBXTextBookmark */ = 11E3E4601690FFCD004D530D /* PBXTextBookmark */;
+		};
+		sourceControlManager = 11BE958A168E19080057B10C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* Square_Reactions_Project_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1144, 318}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 346}";
+			sepNavWindowFrame = "{{38, 0}, {676, 852}}";
+		};
+	};
+	8D1107310486CEB800E47090 /* Square_Reactions_Project-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 21}, {676, 852}}";
+		};
+	};
+}
